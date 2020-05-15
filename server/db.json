@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "description": "Harry Potter has never played a sport while flying on a broomstick. He's never worn a Cloak of Invisibility, befriended a half-giant, or helped hatch a dragon. All Harry knows is a miserable life with the Dursleys, his horrible aunt and uncle, and their abominable son, Dudley. Harry's room is a tiny Cupboard Under the Stairs, he hasn't had a birthday party in ten years, and his birthday present is his uncle's old socks. But all that is about to change when a mysterious letter arrives by owl messenger. A letter with an invitation to a wonderful place he never dreamed existed. There he finds not only friends, aerial sports, and magic around every corner, but a great destiny that's been waiting for him... if Harry can survive the encounter."
+    },
+    {
+      "id": 2,
+      "title": "The ABC Murders",
+      "author": "Agatha Christie",
+      "description": "Agatha Christie's world-famous serial killer mystery, reissued with a striking new cover designed to appeal to the latest generation of Agatha Christie fans and book lovers. There's a serial killer on the loose, bent on working his way through the alphabet. And as a macabre calling card he leaves beside each victim's corpe the ABC Railway Guide open at the name of the town where the murder has taken place. Having begun with Andover, Bexhill and then Churston, there seems little chance of the murderer being caught - until he makes the crucial and vain mistake of challenging Hercule Poirot to frustrate his plans."
+    }
+  ]
+}
